@@ -60,13 +60,13 @@ title: "Introduction to Geospatial Raster and Vector Data with Python"
 # in The Carpentries Incubator).
 #
 # For an Incubator workshop, uncomment the line below and add the URL of the lesson site.
-# incubator_lesson_site: "put the URL of the lesson being taught here"
+incubator_lesson_site: "https://carpentries-incubator.github.io/geospatial-python/"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
-# incubator_pre_survey: "put the URL of your pre-workshop survey here"
+incubator_pre_survey: "https://www.itc.nl/about-itc/centres-of-expertise/big-geodata/surveys/pre-workshop-form-geospatial-python-2024-09-18/"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your post-workshop survey
-# incubator_post_survey: "put the URL of your post-workshop survey here"
+incubator_post_survey: "https://www.itc.nl/about-itc/centres-of-expertise/big-geodata/surveys/post-workshop-form-geospatial-python-2024-09-19/"
 #
 #------------------------------------------------------------
 
